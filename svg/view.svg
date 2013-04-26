@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="42px" height="42px" viewBox="0 0 42 42" xml:space="preserve">
+<path fill-rule="evenodd" d="M20.219,34l0.012-2.885c-5.15,0-9.32-4.149-9.32-9.27c0-5.1,4.15-9.24,9.27-9.27l0.023-2.561
+	C9.703,10.016,1,23.766,1,23.766S11.469,34,20.219,34z M29.561,21.846c0,5.12-4.181,9.27-9.33,9.27L20.219,34
+	C28.969,34,40,23.396,40,23.396S31.383,10,20.203,10l-0.023,2.576C25.33,12.576,29.561,16.726,29.561,21.846z M18.13,21.836
+	c0,1.15,0.94,2.09,2.101,2.09s2.1-0.939,2.1-2.09s-0.939-2.09-2.1-2.09S18.13,20.686,18.13,21.836z"/>
+</svg>
