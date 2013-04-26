@@ -1,4 +1,4 @@
-Meet-TopCoat
+TopCoat Icons
 ============
 
-TopCoat intro slide deck
+Open Source Icons designed for TopCoat
