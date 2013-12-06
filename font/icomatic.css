@@ -1,8 +1,12 @@
 @font-face {
-    font-family: 'Icomatic';
-    src: url('icomatic.svg#icomatic') format('svg');
-    }
-    .icomatic {
+font-family: 'Icomatic';
+src: url('icomatic.eot');
+src: url('icomatic.eot?#iefix') format("embedded-opentype"),
+     url('icomatic.woff') format("woff"),
+     url('icomatic.ttf') format("truetype"),
+     url('icomatic.svg#icomatic') format('svg');
+}
+.icomatic {
     font-family: 'Icomatic','sans-serif';
     line-height: 1;
     text-rendering: optimizeLegibility;
@@ -12,8 +16,8 @@
     -o-font-feature-settings: "liga", "dlig";
     font-feature-settings: "liga", "dlig";
     -webkit-font-smoothing: antialiased;
-    }
-    .icomatic-alt {
+}
+.icomatic-alt {
     margin: -1px;
     border:0;
     padding: 0;
@@ -21,4 +25,4 @@
     clip: rect(0 0 0 0);
     position: absolute;
     overflow: hidden;
-    }
+}
