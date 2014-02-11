@@ -1,0 +1,28 @@
+{
+  "name": "topcoat-icons",
+  "version": "0.2.0",
+  "description": "Open source icons for Topcoat",
+  "main": "index.html",
+  "style": "font/icomatic.css",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/topcoat/icons.git"
+  },
+  "keywords": [
+    "icons",
+    "topcoat",
+    "css"
+  ],
+  "author": "@dam",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/topcoat/icons/issues"
+  },
+  "homepage": "https://github.com/topcoat/icons"
+}
